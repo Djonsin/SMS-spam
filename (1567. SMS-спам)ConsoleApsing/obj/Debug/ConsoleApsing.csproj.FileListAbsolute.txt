@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\OOP_tasks\ConsoleApsing\bin\Debug\ConsoleApsing.exe.config
+C:\Users\user\source\repos\OOP_tasks\ConsoleApsing\bin\Debug\ConsoleApsing.exe
+C:\Users\user\source\repos\OOP_tasks\ConsoleApsing\bin\Debug\ConsoleApsing.pdb
+C:\Users\user\source\repos\OOP_tasks\ConsoleApsing\obj\Debug\ConsoleApsing.csprojAssemblyReference.cache
+C:\Users\user\source\repos\OOP_tasks\ConsoleApsing\obj\Debug\ConsoleApsing.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\OOP_tasks\ConsoleApsing\obj\Debug\ConsoleApsing.exe
+C:\Users\user\source\repos\OOP_tasks\ConsoleApsing\obj\Debug\ConsoleApsing.pdb
